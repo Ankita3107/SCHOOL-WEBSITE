@@ -1,2 +1,3 @@
 # c52_project
-Finally I completed my school website 🏫. Hope you 💖 it
+https://ankita3107.github.io/c52_project/.
+
